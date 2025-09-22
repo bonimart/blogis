@@ -8,6 +8,8 @@ Supr čupr víkendový trip.
 
 ## První den
 
+![Andílek](/serra-da-estrela/andilek.png)
+
 {{< mapy src=https://mapy.com/s/bugoreteza >}}
 
 ## Druhý den
