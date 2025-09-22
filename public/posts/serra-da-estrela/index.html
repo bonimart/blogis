@@ -4,7 +4,7 @@
   dir="ltr"
   class="scroll-smooth"
   data-default-appearance="light"
-  data-auto-appearance="true"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  data-auto-appearance="false"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8">
   
     <meta http-equiv="content-language" content="cs">
@@ -134,7 +134,7 @@
     
     
     "mainEntityOfPage": "true",
-    "wordCount": "13"
+    "wordCount": "116"
   }]
   </script>
 
@@ -390,6 +390,16 @@
 
 
 
+  <script>
+    (function () {
+      var $mainmenu = $(".main-menu");
+      var path = window.location.pathname;
+      $mainmenu.find('a[href="' + path + '"]').each(function (i, e) {
+        $(e).children("p").addClass("active");
+      });
+    })();
+  </script>
+
 
     
     <div class="relative flex flex-col grow">
@@ -436,11 +446,7 @@
   
 
   
-    
-  
 
-  
-    
   
 
   
@@ -457,7 +463,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2025-09-22T19:28:11&#43;01:00">22 září 2025</time><span class="px-2 text-primary-500">&middot;</span><span>13 slov</span><span class="px-2 text-primary-500">&middot;</span><span title="Doba čtení">1 min</span>
+      <time datetime="2025-09-22T19:28:11&#43;01:00">22 září 2025</time>
     
 
     
@@ -526,13 +532,142 @@
       
       
       
+        <div class="order-first lg:ml-auto px-0 lg:order-last lg:ps-8">
+          <div class="toc ps-5 print:hidden lg:sticky lg:top-10">
+            
+              <details
+  open
+  id="TOCView"
+  class="toc-right mt-0 overflow-y-auto overscroll-contain scrollbar-thin scrollbar-track-neutral-200 scrollbar-thumb-neutral-400 dark:scrollbar-track-neutral-800 dark:scrollbar-thumb-neutral-600 rounded-lg -ms-5 ps-5 pe-2 hidden lg:block">
+  <summary
+    class="block py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 -ms-5 ps-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
+    Obsah
+  </summary>
+  <div
+    class="min-w-[220px] py-2 border-dotted border-s-1 -ms-5 ps-5 dark:border-neutral-600">
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#první-den">První den</a></li>
+    <li><a href="#druhý-den">Druhý den</a></li>
+    <li><a href="#třetí-den">Třetí den</a></li>
+  </ul>
+</nav>
+  </div>
+</details>
+<details class="toc-inside mt-0 overflow-hidden rounded-lg -ms-5 ps-5 lg:hidden">
+  <summary
+    class="py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 -ms-5 ps-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
+    Obsah
+  </summary>
+  <div
+    class="py-2 border-dotted border-neutral-300 border-s-1 -ms-5 ps-5 dark:border-neutral-600">
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#první-den">První den</a></li>
+    <li><a href="#druhý-den">Druhý den</a></li>
+    <li><a href="#třetí-den">Třetí den</a></li>
+  </ul>
+</nav>
+  </div>
+</details>
+
+
+<script>
+  (function () {
+    'use strict'
+
+    const SCROLL_OFFSET_RATIO = 0.33
+    const TOC_SELECTOR = '#TableOfContents'
+    const ANCHOR_SELECTOR = '.anchor'
+    const TOC_LINK_SELECTOR = 'a[href^="#"]'
+    const NESTED_LIST_SELECTOR = 'li ul'
+    const ACTIVE_CLASS = 'active'
+
+    function getActiveAnchorId(anchors, offsetRatio) {
+      const threshold = window.scrollY + window.innerHeight * offsetRatio
+      const tocLinks = [...document.querySelectorAll('#TableOfContents a[href^="#"]')]
+      const tocIds = new Set(tocLinks.map(link => link.getAttribute('href').substring(1)))
+
+      for (let i = anchors.length - 1; i >= 0; i--) {
+        const top = anchors[i].getBoundingClientRect().top + window.scrollY
+        if (top <= threshold && tocIds.has(anchors[i].id)) {
+          return anchors[i].id
+        }
+      }
+      return anchors.find(anchor => tocIds.has(anchor.id))?.id || ''
+    }
+
+    function updateTOC({ toc, anchors, links, scrollOffset, collapseInactive }) {
+      const activeId = getActiveAnchorId(anchors, scrollOffset)
+      if (!activeId) return
+
+      links.forEach(link => {
+        const isActive = link.getAttribute('href') === `#${activeId}`
+        link.classList.toggle(ACTIVE_CLASS, isActive)
+
+        if (collapseInactive) {
+          const ul = link.closest('li')?.querySelector('ul')
+          if (ul) ul.style.display = isActive ? '' : 'none'
+        }
+      })
+
+      if (collapseInactive) {
+        const activeLink = toc.querySelector(`a[href="#${CSS.escape(activeId)}"]`)
+        let el = activeLink
+        while (el && el !== toc) {
+          if (el.tagName === 'UL') el.style.display = ''
+          if (el.tagName === 'LI') el.querySelector('ul')?.style.setProperty('display', '')
+          el = el.parentElement
+        }
+      }
+    }
+
+    function initTOC() {
+      const toc = document.querySelector(TOC_SELECTOR)
+      if (!toc) return
+
+      const collapseInactive = true
+      const anchors = [...document.querySelectorAll(ANCHOR_SELECTOR)]
+      const links = [...toc.querySelectorAll(TOC_LINK_SELECTOR)]
+
+      if (collapseInactive) {
+        toc.querySelectorAll(NESTED_LIST_SELECTOR).forEach(ul => ul.style.display = 'none')
+      }
+
+      const config = {
+        toc,
+        anchors,
+        links,
+        scrollOffset: SCROLL_OFFSET_RATIO,
+        collapseInactive
+      }
+
+      window.addEventListener('scroll', () => updateTOC(config), { passive: true })
+      window.addEventListener('hashchange', () => updateTOC(config), { passive: true })
+
+      updateTOC(config)
+    }
+
+    document.readyState === 'loading'
+      ? document.addEventListener('DOMContentLoaded', initTOC)
+      : initTOC()
+  })()
+</script>
+
+
+            
+            
+          </div>
+        </div>
+      
 
 
       <div class="min-w-0 min-h-0 max-w-fit">
         
 
         <div class="article-content max-w-prose mb-20">
-          <p>Supr čupr víkendový trip.</p>
+          <p>Jako první výlet mimo Porto jsme si vybrali pohoří Serra Da Estrela.
+Z Porta jezdí přímý autobus do města Covilha, které je hned vedle nejvyšší hory pohoří.</p>
 
 <h2 class="relative group">První den 
     <div id="první-den" class="anchor"></div>
@@ -543,6 +678,12 @@
     </span>        
     
 </h2>
+<p>První den jsme se vydali na nejvyšší horu pevninského Portugalska, <nobr>Torre (1993 m n. m.)</nobr>.
+Přímo na Torre jezdí z Covilhy <a
+  href="https://covilhamobilidade.pt/Tariff"
+    target="_blank"
+  >extrémně předražený</a> Serra Shuttle (12.10 € za zpáteční jízdenku).</p>
+<p>Po výjezdu jsme se po hřebeni vydali na sever směrem k městečku Manteigas</p>
 <p>
 
 
@@ -568,6 +709,11 @@
   
 </figure>
 </p>
+<ul>
+<li>Málo pěších turistů, spíš lidi jezdí autem.</li>
+<li>Značení PR5.3MTG stojí za hovno.</li>
+<li>Lidi moc neumí anglicky, ale jsou fajn.</li>
+</ul>
 
 
 
@@ -592,6 +738,10 @@
     </span>        
     
 </h2>
+<ul>
+<li>Babičky rozdávají víno</li>
+<li>Na podzim netekl vodopád.</li>
+</ul>
 
 
 
@@ -616,6 +766,12 @@
     </span>        
     
 </h2>
+<ul>
+<li>kudlanka</li>
+<li>fake kosatce</li>
+<li>festival petržele</li>
+<li>mizerný značení mezi Torre a Covilha</li>
+</ul>
 
 
 

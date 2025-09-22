@@ -4,7 +4,7 @@
   dir="ltr"
   class="scroll-smooth"
   data-default-appearance="light"
-  data-auto-appearance="true"><head>
+  data-auto-appearance="false"><head>
 	<meta name="generator" content="Hugo 0.150.0"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8">
   
@@ -381,6 +381,16 @@
 
 
 
+  <script>
+    (function () {
+      var $mainmenu = $(".main-menu");
+      var path = window.location.pathname;
+      $mainmenu.find('a[href="' + path + '"]').each(function (i, e) {
+        $(e).children("p").addClass("active");
+      });
+    })();
+  </script>
+
 
     
     <div class="relative flex flex-col grow">
@@ -495,11 +505,7 @@
   
 
   
-    
-  
 
-  
-    
   
 
   
@@ -516,7 +522,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2025-09-22T19:28:11&#43;01:00">22 září 2025</time><span class="px-2 text-primary-500">&middot;</span><span>13 slov</span><span class="px-2 text-primary-500">&middot;</span><span title="Doba čtení">1 min</span>
+      <time datetime="2025-09-22T19:28:11&#43;01:00">22 září 2025</time>
     
 
     
