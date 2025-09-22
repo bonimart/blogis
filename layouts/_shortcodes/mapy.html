@@ -1,0 +1,15 @@
+{{ $src := .Get "src" }}
+{{ $width := or (.Get "width") "700" }}
+{{ $height := or (.Get "height") "466" }}
+
+{{ if not $src }}
+   {{- errorf "The %q shortcode requires a 'src' argument: see %s" $.Name $.Position }}
+{{ end }}
+<iframe 
+    src="{{ $src }}" 
+    style="border:none"
+    width="{{ $width }}"
+    height="{{ $height }}"
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
