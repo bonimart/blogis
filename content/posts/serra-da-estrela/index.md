@@ -12,11 +12,14 @@ Z Porta jezdí přímý autobus do města Covilha, které je hned vedle nejvyš�
 První den jsme se vydali na nejvyšší horu pevninského Portugalska, <nobr>Torre (1993 m n. m.)</nobr>.
 Přímo na Torre jezdí z Covilhy [extrémně předražený](https://covilhamobilidade.pt/Tariff) Serra Shuttle (12.10 € za zpáteční jízdenku).
 
-Po výjezdu jsme se po hřebeni vydali na sever směrem k městečku Manteigas
+Na Torre toho moc není, jeden stánek se suvenýry, kozy, a pár lidí, co si přijeli autem na krátkou procházku.
 
-![Andílek](/serra-da-estrela/andilek.png)
+![Pastevec](img/pastevec.png)
 
-- Málo pěších turistů, spíš lidi jezdí autem.
+Mnohem hezčí výhledy byly když jsme popošli dál po hřebeni směrem k údolí řeky Zêzere.
+
+{{< carousel images="{img/andilek.png,img/IMG_8728.png}" >}}
+
 - Značení PR5.3MTG stojí za hovno.
 - Lidi moc neumí anglicky, ale jsou fajn.
 
