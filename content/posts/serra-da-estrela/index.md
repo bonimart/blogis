@@ -20,7 +20,12 @@ Mnohem hezčí výhledy byly když jsme popošli dál po hřebeni směrem k údo
 
 {{< carousel images="{img/andilek.png,img/IMG_8728.png}" >}}
 
-- Značení PR5.3MTG stojí za hovno.
+Další část cesty jsme šli po trase PR5.3MTG, která spojuje trasy PR4MTG a PR5MTG.
+Obecně značení turistických tras v Portugalsku není tak dobré jako v Česku, pro všechny trasy
+se používá jedna značka (žlutá a červená čára), takže člověk ani nepozná, jestli jde po správné trase.
+
+U PR5.3MTG bylo značení ale suverénně nejhorší, místo značek se používaly na sebe naskládané kameny, celá trasa byla maličká a zarostlá vysokým křovím, takže po ní leckdy ani nešlo jít.
+
 - Lidi moc neumí anglicky, ale jsou fajn.
 
 {{< mapy src=https://mapy.com/s/bugoreteza >}}
