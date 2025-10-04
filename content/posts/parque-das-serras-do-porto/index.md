@@ -1,6 +1,6 @@
 +++
 date = '2025-10-02T19:28:11+01:00'
-draft = true
+draft = false
 title = 'Parque das Serras do Porto'
 tags = ["jednodenní výlet"]
 +++
