@@ -1,6 +1,6 @@
 +++
 date = '2025-09-22T19:28:11+01:00'
-draft = true
+draft = false
 title = 'Serra Da Estrela'
 tags = ["víkendový výlet"]
 +++
