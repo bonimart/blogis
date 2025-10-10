@@ -48,7 +48,7 @@
 #  weight = 20
 
 [[main]]
-  name = "Tags"
+  name = "Tagy"
   pageRef = "tags"
   weight = 30
 
