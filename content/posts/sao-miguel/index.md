@@ -163,7 +163,7 @@ Kolem jezera Congro byly krásné vysoké stromy, které voněly jako vavřín. 
 
 ![2_corgo](img/2_corgo.jpg "Lagoa do Congro")
 
-## Třetí den: Severozápad
+## Třetí den: Severovýchod
 
 Ráno jsme se vydali na procházku ke kapličce [Ermida de Nossa Senhora da Paz](https://mapy.com/s/leperopago). Šli jsme pěšky z našeho ubytování, což bylo poměrně kousek, ale taky dost do kopce. Po cestě jsme míjeli několik polí s banánovníky a krásné výhledy na moře a ostrov [Ilhéu de Vila Franca](https://mapy.com/s/rebumujece).
 
@@ -172,4 +172,13 @@ Ráno jsme se vydali na procházku ke kapličce [Ermida de Nossa Senhora da Paz]
   <img src="img/3_ostrov.jpg" class="grid-w50" />
 {{< /gallery >}}
 
-Kaple [Ermida de Nossa Senhora da Paz](https://mapy.com/s/leperopago) . 
+![3_kaple](img/3_kaple.jpg "Kaple [Ermida de Nossa Senhora da Paz](https://mapy.com/s/leperopago)")
+
+Odpoledne jsme se vydali na severovýchod ostrova na trek ke dvěma vodopádům - Salto da Farinha a Cascata do Risco.
+První vodopád byl ale celkem vyschlý, takže k druhému jsme ani nedošli celou cestu.
+
+Pak jsme popojeli kousek dál východně k Parque Natural dos Caldeiroes,
+kde je kratší procházka kolem umělé kaskády vodopádů, které tečou nehledě na roční období.
+Asi kvůli tomu a nenáročnosti trasy tam bylo hodně lidí.
+
+Na večer jsme dojeli na úplný východ ostrova k majáku Farol do Arnel.
