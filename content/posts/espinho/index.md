@@ -5,7 +5,7 @@ title = 'Cesta po pobřeží do Espinha'
 tags = ["jednodenní výlet"]
 +++
 
-Jelikož jsme ještě chtěli využít výhodného studentského jízdného [výhodného studentského jízdného](https://andante.pt/en/purchase/silver-andante/) po metropolitní oblasti, vydali jsme se na procházku po plážích na jih od Porta.
+Jelikož jsme ještě chtěli využít [výhodného studentského jízdného](https://andante.pt/en/purchase/silver-andante/) po metropolitní oblasti, vydali jsme se na procházku po plážích na jih od Porta.
 
 ## Trasa
 
