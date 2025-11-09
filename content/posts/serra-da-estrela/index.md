@@ -6,7 +6,7 @@ tags = ["víkendový výlet"]
 +++
 
 Jako první výlet mimo Porto jsme si vybrali pohoří [Serra Da Estrela](https://en.wikipedia.org/wiki/Serra_da_Estrela).
-To je nejvyšší pohoří pevninvkého Portugalska s vrcholem Torre (1993 m n. m.) a zároveň tzv. "přírodní park" (Parque Natural da Serra da Estrela).
+To je nejvyšší pohoří pevninského Portugalska s vrcholem Torre (1993 m n. m.) a zároveň tzv. "přírodní park" (Parque Natural da Serra da Estrela).
 
 Z Porta jezdí přímý autobus společnosti Rede Expresso (zdejší konkurence Flixbusu) do města Covilha, které je hned vedle Torre.
 
@@ -93,7 +93,7 @@ Taky jsme viděli přehradu Lago do Viriato.
 
 ![jezero](img/jezero.jpg)
 
-Za jezerem jsme si zašli do vesničky na kafe, bylo celkem vtipný, že místní byli navlečený v zimních bundách, zatímco my jsme šli v tričku.
+Za jezerem jsme si zašli do vesničky na kafe, bylo celkem vtipný, že místní byli navlečený v zimních bundách, zatímco my jsme šli v tričku. Mimo jiné jsme si dávali i cappucino, které ale chutnalo jako ohřáté Eiskaffee, takže to bylo docela zklamání. 
 
 Zpět do Covilhy jsme se rozhodli jít pěšky i když je cesta celou dobu po silnici, protože autobus vycházel dost draze.
 Tím pádem jsme se poslední kus cesty moc netěšili, ale mile to překvapilo, protože výhledy tu byly fakt super.
