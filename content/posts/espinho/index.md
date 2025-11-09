@@ -38,4 +38,4 @@ V Espinhu jsme si stihli projít akorát pláže, protože už nám jel brzo vla
   <img src="img/skeble.jpg" class="grid-w50" />
 {{< /gallery >}}
 
-{{< video src="img/video_vlny.MOV" >}}
+{{< video src="video_vlny.mp4" >}}
