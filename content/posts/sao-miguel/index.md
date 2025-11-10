@@ -79,6 +79,8 @@ Cesta na ubytování byla ale ještě dobrodružná. Jeli jsme po severním bře
 
 ![1_rabodepeixe](img/1_rabodepeixe.jpg )
 
+Později jsme dohledali, že tam zrovna probíhali slavnosti [Festa de Nossa Senhora do Rosário](https://www.facebook.com/groups/acores.global/permalink/24759099977114183/), tedy slavnosti Panny Marie Růžencové, což je patronka tohoto rybářského městečka. To, na co jsme narazili byl pravděpodobně Cortejo Recolha das Ofertas, v doslovném překladu Průvod pro sbírku obětních darů, kdy místní prochází vyzdobeným městem a nesou sošku Panny Marie.
+
 ## Druhý den: Střední část ostrova
 
 Prvním cílem našeho druhého dne bylo [Lagoa do Fogo](https://mapy.com/s/kabavazepa), které se nachází v pohoří ve středu ostrova. Vyráželi jsme z ubytování za krásného slunce, ale jakmile jsme vyjeli jenom do trochu vyšší nadmořské výšky, byla okamžitě hustá mlha a bylo nám jasné, že nic moc z jezera neuvidíme. 
@@ -174,11 +176,44 @@ Ráno jsme se vydali na procházku ke kapličce [Ermida de Nossa Senhora da Paz]
 
 ![3_kaple](img/3_kaple.jpg "Kaple [Ermida de Nossa Senhora da Paz](https://mapy.com/s/leperopago)")
 
-Odpoledne jsme se vydali na severovýchod ostrova na trek ke dvěma vodopádům - Salto da Farinha a Cascata do Risco.
-První vodopád byl ale celkem vyschlý, takže k druhému jsme ani nedošli celou cestu.
+![3_kriz](img/3_kriz.jpg "výhled na [Vila Franca do Campo](https://mapy.com/s/jazemusova)")
 
-Pak jsme popojeli kousek dál východně k Parque Natural dos Caldeiroes,
-kde je kratší procházka kolem umělé kaskády vodopádů, které tečou nehledě na roční období.
-Asi kvůli tomu a nenáročnosti trasy tam bylo hodně lidí.
+Odpoledne jsme se vydali na severovýchod ostrova na trek ke dvěma vodopádům - [Salto da Farinha](https://mapy.com/s/bamadubudu) a [Cascata do Risco](https://mapy.com/s/bajupevaba).
 
-Na večer jsme dojeli na úplný východ ostrova k majáku Farol do Arnel.
+{{< mapy src=https://mapy.com/s/halugelusu >}}
+
+Parkovali jsme kousek od vodopádu [Salto da Farinha](https://mapy.com/s/bamadubudu), kam se sice dalo dojet autem, ale k parkovišti vedla dost strmá silnice, takže příště bysme asi auto nechali už na dřívějším parkovišti.
+
+![3_serpentina](img/3_serpentina.jpg "silnice k parkovišti")
+
+![3_domek](img/3_domek.jpg "vyschlý vodopád [Salto da Farinha](https://mapy.com/s/bamadubudu)")
+
+Původně jsme teda chtěli jsme dojít až k vodpádu [Cascata do Risco](https://mapy.com/s/bajupevaba), ale první vodopád byl celkem vyschlý, takže jsme došli jenom k [Poço Azul](https://mapy.com/s/baselarazo) a cestu ke druhému vodopádu jsme nakonec vzdali.
+
+![3_poco_azul](img/3_poco_azul.jpg "Poço Azul")
+
+Trasa byla jinak docela pěknou přírodou, až na to, že část vedla po silnici a celkově měla trasa docela velké převýšení, takže se výlet tolik nepovedl. Co musím ale ocenit, tak jsou lilie [Amaryllis belladonna](), které silnici lemovaly.
+
+![3_cesta_lilie](img/3_cesta_lilie.jpg )
+
+Pak jsme popojeli kousek dál východně k [Parque Natural dos Caldeiroes](https://mapy.com/s/nabuzujaka), kde jsme si udělali krátkou kolem umělé kaskády vodopádů, které tečou nehledě na roční období. V parku se nachází také pět původních mlýnů z 16. století. Kvůli snadné dostupnosti místa a působivým vodopádům tam bylo docela dost lidí, ale návštěva myslím stála za to. 
+
+{{< gallery >}}
+  <img src="img/3_caldeiroes2.jpg" class="grid-w50" />
+  <img src="img/3_caldeiroes3.jpg" class="grid-w50" />
+  <img src="img/3_caldeiroes4.jpg" class="grid-w100" />
+{{< /gallery >}}
+
+Na večer jsme dojeli na úplný východ ostrova k majáku [Farol do Arnel](https://mapy.com/s/fudokakebo). Prvně jsme sestoupali až k němu, ale hezčí vyhlídka [Miradouro da Vista dos Barcos](https://mapy.com/s/huvuvumecu) byla až o kousek dál, kam jsme popojeli autem.
+
+{{< gallery >}}
+  <img src="img/3_majak.jpg" class="grid-w50" />
+  <img src="img/3_utesy2.jpg" class="grid-w50" />
+{{< /gallery >}}
+
+![3_majak2](img/3_majak2.jpg "[Miradouro da Vista dos Barcos](https://mapy.com/s/huvuvumecu)" )
+
+##  Čtvrtý den: Sete Citades
+
+
+
