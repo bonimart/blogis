@@ -215,5 +215,26 @@ Na večer jsme dojeli na úplný východ ostrova k majáku [Farol do Arnel](http
 
 ##  Čtvrtý den: Sete Citades
 
+Čtvrtý den jsme se vydali asi na nejznámnější trek na ostrově Sao Miguel - a to kolem jezer [Sete Citades](). 
+
+{{< mapy src=https://mapy.com/s/rehomonaga >}}
+
+Sete Citades je městečko na západě ostrova mezi dvěma jezery - [Lagoa Azul](https://mapy.com/s/bokunecaza) a [Lagoa Verde](https://mapy.com/s/papajetaze). [Lagoa Azul](https://mapy.com/s/bokunecaza) má modrou barvu, protože odráží oblohu a [Lagoa Verde](https://mapy.com/s/papajetaze) je zelené, protože odráží okolní hory. (+Místní legenda?)
+
+Všechna jezera leží na ploše masivního polygenetického vulkánu Sete Citades, který má plochu asi 110 km2. Polygenetický vulkány mají složitější strukturu, protože jejich erupce proběhla v minulosti několikrát, narozdíl od monogenetických vulkánů, které v minulosti vybuchli jenom jednou a přestali být aktivními. Vulkanický masiv Sete Citades je velmi členitý a tvoří ho různé vulkanické struktury a 4 jezera. Jeho poslední erupce se datuje na rok 500 n.l., čímž vznikla [Caldeira Seca](https://maps.app.goo.gl/5YFP3iNy373syFko6).
+
+Náš trek začínal na parkovišti u [akvaduktu](https://mapy.com/s/lulorefajo), kolem kterých se pásli krávy a v mlze zde byla opravdu krásná atmosféra.
+
+{{< gallery >}}
+  <img src="img/4_kravy_viadukt.jpg" class="grid-w100" />
+  <img src="img/4_akvadukt_kravy.jpg" class="grid-w100" />
+{{< /gallery >}}
+
+Část akvaduktu se nazývá [Wall of nine windows](). Původní akvadukt pochází z 17. století a odváděl vodu z oblasti kolem [Lagoa do Canario](https://mapy.com/s/gebugotese) do hlavního města ostrova Ponta Delgada. 
+
+![4_stěna](4_stěna.jpg "The Wall of Nine Windows" )
+
+
+
 
 
