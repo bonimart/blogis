@@ -232,9 +232,42 @@ Náš trek začínal na parkovišti u [akvaduktu](https://mapy.com/s/lulorefajo)
 
 Část akvaduktu se nazývá [Wall of nine windows](). Původní akvadukt pochází z 17. století a odváděl vodu z oblasti kolem [Lagoa do Canario](https://mapy.com/s/gebugotese) do hlavního města ostrova Ponta Delgada. 
 
-![4_stěna](4_stěna.jpg "The Wall of Nine Windows" )
+![4_stěna](img/4_stěna.jpg "The Wall of Nine Windows" )
 
+Dál jsme pokračovali po cestě směrem k hoře [Pico da Cruz](https://mapy.com/s/habukalete) a dál už pokračovali po hřebeni kolem jezer. Cesta byla nádherná, i když na začátku jsme se opět báli, že kvůli mlze vůbec nic neuvidíme.
 
+![4_mlha](img/4_mlha.jpg "pohled na [Lagoa Azul](https://mapy.com/s/lavamupada)" )
 
+Pak se ale vyjasnilo a byl krásný pohled jak na jezera, tak na na opačnou stranu na louky a oceán.
 
+{{< carousel images="{img/4_panorama_zacatek.jpg,img/4_cesta.jpg,img/4_jezero1.jpg,img/4_ocean.jpg}" >}}
+
+Na severozápadní straně pak byly z dálky dokonce vidět útesy [Ilhéus dos Mosteiros](https://mapy.com/s/cekuhajeja), které jsme navštívili poslední den. 
+
+![4_utesy](img/4_utesy_jih.jpg "[Ilhéus dos Mosteiros](https://mapy.com/s/cekuhajeja)" )
+
+Na jižní straně se pak nacházely nezatopené krátery a pole...
+{{< carousel images="{img/4_pole.jpg,img/4_policka.jpg}" >}} 
+
+...a kopce a spousta krav
+
+{{< gallery >}}
+  <img src="img/4_kopec_kravy.jpg" class="grid-w50" />
+  <img src="img/4_bila_cerna.jpg" class="grid-w50" />
+{{< /gallery >}}
+
+Pak jsme míjeli známý výhled [Vista do Rei](https://mapy.com/s/natepumuca), ale náš nejoblíbenější [výhled](https://mapy.com/s/hogusujumo) byl u zídky podél silnice ještě o kousek dál.
+
+![4_nej](img/4_nej.jpg )
+
+Naše trasa pak pokračovala po silnici, což nebylo uplně příjemný. Chtěli jsme se zajít na jeden výhled [Boca do Inferno](https://mapy.com/s/nopupuhehe), odkud byly vidět i zbylá jezera, která jsme ještě neviděli. Na tento výhled odbočovala ze silnice neznačená, ale pěkná cesta (bohužel na mapách není zobrazená). 
+
+{{< gallery >}}
+  <img src="img/4_zabradli2.jpg" class="grid-w100" />
+  <img src="img/4_zabradli.jpg" class="grid-w100" />
+{{< /gallery >}}
+
+Z výhledu [Boca do Inferno](https://mapy.com/s/nopupuhehe) pak ale na parkoviště vedla pěkná cesta jakýmsi parkem.
+
+## Pátý den: Furnas
 
