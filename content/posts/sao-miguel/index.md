@@ -39,7 +39,7 @@ Pak už jsme jen kousek popojeli a zaparkovali na parkovišti u [akvaduktu do Ca
 
 {{< mapy src=https://mapy.com/s/dubaboromo >}}
 
-Už na parkovišti byla dost mlha a jakmile jsme vyrazili nahoru bylo to ještě horší, takže jsme na začátku z výhledů neviděli skoro nic. I tak byla okolo ale uplně krásná zeleň takže jsme si procházku užili i v mlze.
+Už na parkovišti byla dost mlha a jakmile jsme vyrazili nahoru, bylo to ještě horší, takže jsme na začátku z výhledů neviděli skoro nic. I tak ale byla okolo úplně krásná zeleň, takže jsme si procházku užili i v mlze.
 
 
 {{< carousel images="{img/1_akvadukt.jpg,img/1_mlha.jpg,img/1_hortenzie.jpg,img/1_cesta.jpg,img/1_zelen.jpg}" >}}
@@ -100,9 +100,9 @@ Delší procházku kolem jezera jsme teda vzdali a vystoupali zpátky k autu. Na
 
 ![2_lagoadifogo](img/2_lagoadifogo.jpg "Lagoa di Fogo" )
 
-Dál jsme se vydali směrem k vodopádům a termálům [Caldeira Velha](https://mapy.com/s/delezotodo), kde byl původní plán se vykoupat, ale Martin si zapomněl plavky a taky měli volná místa až za hodinu, takže jsme se tam nakonec nepodívali. 
+Dál jsme se vydali směrem k vodopádům a termálům [Caldeira Velha](https://mapy.com/s/delezotodo), kde byl původní plán se vykoupat, ale měli volná místa až za hodinu a nám se nechtělo čekat, takže jsme se tam nakonec nepodívali. 
 
-Caldeira Velha jsou jinak termály, které obklopuje krásná příroda a vodopády. Cenově vycházely s koupáním na [10 euro](https://parquesnaturais.azores.gov.pt/en/parques/9/centro/21/horarios). 
+[Caldeira Velha](https://mapy.com/s/delezotodo) jsou jinak termály, které obklopuje krásná příroda a vodopády. Cenově vycházely s koupáním na [10 euro](https://parquesnaturais.azores.gov.pt/en/parques/9/centro/21/horarios). 
 
 Další místo, které jsme navštívili bylo v okolí vesničky [Porto Formosa](https://mapy.com/s/fapobusavu). Šli jsme tam krátký okruh okolo vodopádu a útesů.
 
@@ -110,11 +110,9 @@ Další místo, které jsme navštívili bylo v okolí vesničky [Porto Formosa]
 
 Naše trasa začínala u vodopádu [Cascata do Porto Formosso](https://mapy.com/s/komuduvebu), který nás hodně překvapil. Původně jsme totiž na toto místo jeli hlavně kvůli útesům kolem moře a vodopád nebyl náš hlavní cíl. 
 
-Vodopád ale působil fakt hezky, protože v něm byl dostatek vody a v jeho okolí byla krásná "džungle" a spousta hortenzií. 
+Vodopád ale působil fakt hezky, protože v něm byl dostatek vody a v jeho okolí byla krásná "džungle" a spousta hortenzií. Pod vodopádem bylo i malé jezírko, kde se dalo vykoupat, což nás nalákalo a příjemně jsme se v něm osvěžili.
 
-{{< carousel images="{img/2_portoformosso_vodopad.jpg,img/2_okoli_vodopadu.jpg,img/2_hortenzie.jpg}" >}}
-
-Pod vodopádem bylo i malé jezírko, kde se dalo vykoupat, což nás nalákalo, ale řekli jsme si, že se osvěžíme, až projdem celou trasu. 
+{{< carousel images="{img/2_portoformosso_vodopad.jpg,img/2_okoli_vodopadu.jpg,img/2_hortenzie.jpg}" >}} 
 
 Trasa vedla dál k pobřeží a útesům. Prošli jsme džunglí, bambusovou stezkou, pak po pastvinách kolem krav a býků v dost těsné blízkosti a dorazili jsme k [rozhledně](https://mapy.com/s/mamarufeje), odkud bylo vidět na skalní bránu v moři. 
 
@@ -129,11 +127,10 @@ Pak už jsme pokračovali podél moře směrem zpátky k vesničce. Cestou jsme 
 
 {{< carousel images="{img/2_utesy.jpg,img/2_plaz.jpg,}" >}}
 
-Když jsme se vrátili k autu, akorát jsme se převlékli do plavek a dali jsme skvělou koupel pod vodopádem.
 
-Naše trasa směřovala dál k výrobně čaje [Chá Gorreana](https://mapy.com/s/jozofegeme), okolo které se rozkládají čajové plantáže. Čajové plantáže [Chá Gorreana](https://gorreana.pt/en/) jsou nejstaršími dosud fungujícími čajovými plantážemi v Evropě, které jsou v provozu od roku 1883 a výrobna čaje zůstává vlastněná rodinou původních majitelů. Plantáže jsou tvořeny malými stromky čajovníku čínského (Camellia sinensis), jehož lísky se sklízejí v období mezi dubnem a říjnem a potom se z něj vyrábí 3 typy čajů - zelený, černý a oolong. 
+Naše trasa směřovala dál k výrobně čaje [Chá Gorreana](https://mapy.com/s/jozofegeme), okolo které se rozkládají čajové plantáže. Čajové plantáže [Chá Gorreana](https://gorreana.pt/en/) jsou nejstaršími dosud fungujícími čajovými plantážemi v Evropě a v provozu jsou od roku 1883. Zajímavé je, že výrobna čaje zůstává vlastněná rodinou původních majitelů. Plantáže jsou tvořeny malými stromky čajovníku čínského ([Camellia sinensis](https://www.inaturalist.org/taxa/123005-Camellia-sinensis)), jehož lísky se sklízejí v období mezi dubnem a říjnem a potom se z něj vyrábí 3 typy čajů - zelený, černý a oolong. 
 
-Zaparkovali jsme přímo u výrobny čaje, kde nebylo moc místa, ale měli jsme štěstí, že jsme nějaké našli. Pak jsme okolo šli krátký track okolo čajových plantáží a vedlejšího vodopádu [Salto da Cidreira](https://mapy.com/s/fuvasakopa).
+Zaparkovali jsme přímo u výrobny čaje, kde nebylo moc místa, ale měli jsme štěstí a nějaké jsme našli. Pak jsme okolo šli krátký track okolo čajových plantáží a vedlejšího vodopádu [Salto da Cidreira](https://mapy.com/s/fuvasakopa).
 
 {{< mapy src=https://mapy.com/s/putolejobe >}}
 
@@ -161,13 +158,13 @@ Při zpáteční cestě na ubytování jsme se ještě rozhodli si udělat zast�
   <img src="img/2_mlha_congro.jpg" class="grid-w50" />
 {{< /gallery >}}
 
-Kolem jezera Congro byly krásné vysoké stromy, které voněly jako vavřín. Mlha dodávala okolí jezera zajímavou atmosféru. 
+Kolem jezera [Congro](https://mapy.com/s/kabegofodu) byly krásné vysoké stromy, které voněly jako vavřín. Mlha dodávala okolí jezera zajímavou atmosféru. 
 
-![2_corgo](img/2_corgo.jpg "Lagoa do Congro")
+![2_corgo](img/2_corgo.jpg "[Lagoa do Congro](https://mapy.com/s/kabegofodu)")
 
 ## Třetí den: Severovýchod
 
-Ráno jsme se vydali na procházku ke kapličce [Ermida de Nossa Senhora da Paz](https://mapy.com/s/leperopago). Šli jsme pěšky z našeho ubytování, což bylo poměrně kousek, ale taky dost do kopce. Po cestě jsme míjeli několik polí s banánovníky a krásné výhledy na moře a ostrov [Ilhéu de Vila Franca](https://mapy.com/s/rebumujece).
+Třetí den ráno jsme se vydali na procházku ke kapličce [Ermida de Nossa Senhora da Paz](https://mapy.com/s/leperopago). Šli jsme pěšky z našeho ubytování, což bylo poměrně kousek, ale taky dost do kopce. Po cestě jsme míjeli několik polí s banánovníky a krásné výhledy na moře a ostrov [Ilhéu de Vila Franca](https://mapy.com/s/rebumujece).
 
 {{< gallery >}}
   <img src="img/3_bananovniky.jpg" class="grid-w50" />
@@ -192,11 +189,11 @@ Původně jsme teda chtěli jsme dojít až k vodpádu [Cascata do Risco](https:
 
 ![3_poco_azul](img/3_poco_azul.jpg "Poço Azul")
 
-Trasa byla jinak docela pěknou přírodou, až na to, že část vedla po silnici a celkově měla trasa docela velké převýšení, takže se výlet tolik nepovedl. Co musím ale ocenit, tak jsou lilie [Amaryllis belladonna](), které silnici lemovaly.
+Trasa byla jinak docela pěknou přírodou, až na to, že část vedla po silnici a celkově měla trasa docela velké převýšení, takže se výlet tolik nepovedl. Co musím ale ocenit, tak jsou [lilie](https://www.inaturalist.org/taxa/61827-Amaryllis-belladonna), které lemovaly silnici.
 
 ![3_cesta_lilie](img/3_cesta_lilie.jpg )
 
-Pak jsme popojeli kousek dál východně k [Parque Natural dos Caldeiroes](https://mapy.com/s/nabuzujaka), kde jsme si udělali krátkou kolem umělé kaskády vodopádů, které tečou nehledě na roční období. V parku se nachází také pět původních mlýnů z 16. století. Kvůli snadné dostupnosti místa a působivým vodopádům tam bylo docela dost lidí, ale návštěva myslím stála za to. 
+Pak jsme popojeli kousek dál východně k [Parque Natural dos Caldeiroes](https://mapy.com/s/nabuzujaka), kde jsme si udělali krátkou procházku kolem umělé kaskády vodopádů, které tečou nehledě na roční období. V parku se taky nachází pět původních mlýnů z 16. století. Kvůli snadné dostupnosti místa a působivým vodopádům tam bylo docela dost lidí, ale návštěva myslím stála za to. 
 
 {{< gallery >}}
   <img src="img/3_caldeiroes2.jpg" class="grid-w50" />
@@ -230,11 +227,11 @@ Náš trek začínal na parkovišti u [akvaduktu](https://mapy.com/s/lulorefajo)
   <img src="img/4_akvadukt_kravy.jpg" class="grid-w100" />
 {{< /gallery >}}
 
-Část akvaduktu se nazývá [Wall of nine windows](). Původní akvadukt pochází z 17. století a odváděl vodu z oblasti kolem [Lagoa do Canario](https://mapy.com/s/gebugotese) do hlavního města ostrova Ponta Delgada. 
+Část akvaduktu se nazývá [Wall of nine windows](). Původní akvadukt pochází z 17. století a odváděl vodu z oblasti kolem [Lagoa do Canario](https://mapy.com/s/gebugotese) do hlavního města ostrova [Ponta Delgada](https://mapy.com/s/puveresejo). 
 
 ![4_stěna](img/4_stěna.jpg "The Wall of Nine Windows" )
 
-Dál jsme pokračovali po cestě směrem k hoře [Pico da Cruz](https://mapy.com/s/habukalete) a dál už pokračovali po hřebeni kolem jezer. Cesta byla nádherná, i když na začátku jsme se opět báli, že kvůli mlze vůbec nic neuvidíme.
+Dál jsme pokračovali po cestě směrem k hoře [Pico da Cruz](https://mapy.com/s/habukalete) a po hřebeni kolem jezer. Cesta byla nádherná, i když na začátku jsme se opět báli, že kvůli mlze vůbec nic neuvidíme.
 
 ![4_mlha](img/4_mlha.jpg "pohled na [Lagoa Azul](https://mapy.com/s/lavamupada)" )
 
@@ -260,14 +257,14 @@ Pak jsme míjeli známý výhled [Vista do Rei](https://mapy.com/s/natepumuca), 
 
 ![4_nej](img/4_nej.jpg )
 
-Naše trasa pak pokračovala po silnici, což nebylo uplně příjemný. Chtěli jsme zajít na jeden výhled [Boca do Inferno](https://mapy.com/s/nopupuhehe), odkud byly vidět i zbylá jezera, která jsme ještě neviděli. Na tento výhled odbočovala ze silnice neznačená, ale pěkná cesta (bohužel na mapách není zobrazená). 
+Naše trasa pak pokračovala po silnici, což nebylo uplně příjemný. Chtěli jsme zajít ještě na jeden výhled [Boca do Inferno](https://mapy.com/s/nopupuhehe), odkud bylo možné zahlídnout i zbylá jezera, která jsme dosud neviděli. Na tento výhled odbočovala ze silnice neznačená, ale pěkná cesta (bohužel na mapách není zobrazená). 
 
 {{< gallery >}}
   <img src="img/4_zabradli2.jpg" class="grid-w100" />
   <img src="img/4_zabradli.jpg" class="grid-w100" />
 {{< /gallery >}}
 
-Z výhledu [Boca do Inferno](https://mapy.com/s/nopupuhehe) pak ale na parkoviště vedla pěkná cesta jakýmsi parkem.
+Z výhledu [Boca do Inferno](https://mapy.com/s/nopupuhehe) pak ale na parkoviště vedla pěkná upravená cesta jakýmsi parkem.
 
 ## Pátý den: Furnas
 
@@ -283,16 +280,89 @@ Procházka byla krásná, ani nám nevadilo vracet se zpět na parkoviště po s
   <img src="img/5_odpočinek.jpg" class="grid-w50" />
   <img src="img/5_prales.jpg" class="grid-w50" />
   <img src="img/5_prales2.jpg" class="grid-w50" />
+  <img src="img/5_sira.jpg" class="grid-w100" />
 {{< /gallery >}}
 
 Na procházce jsme viděli i přípravu místní speciality [Cozido das Furnas](https://byacores.com/en/cozido-das-furnas/).
-To je směs zeleniny a masa vařená v hrncích zakopaných v blízkosti geotermálních pramenů.
+To je směs zeleniny a masa vařená v hrncích zakopaných v blízkosti geotermálních pramenů. [Cozido das Furnas](https://byacores.com/en/cozido-das-furnas/) jsme ale nakonec neochutnali, protože bylo dost drahé a bylo potřeba si ho předem rezervovat v restauraci. Vůně podobná svíčkové byla ale cítit, i když jsme jen šli kolem.
 
 ![cozido](img/5_cozinha.jpg)
 
-Po procházce jsme přejeli do Furnasu, kde jsme se prošli k parku s geotermálními prameny.
+U geotermálních pramenů byl i [Grená Park](https://mapy.com/s/fafahenebu), který jsme nakonec vynechali, protože se nám nechtěl platit vstup. Navíc z dálky vypadalo, že vodopády v parku moc netečou a ještě jsme toho ten den chtěli hodně stihnout.
 
+Po procházce jsme přejeli do Furnasu, kde jsme zaparkovali [na kraji města](https://mapy.com/s/hogaronejo) a pak se prošli do centra a k parku s geotermálními prameny [Courela Garden](https://mapy.com/s/rezehataba).
 
-Potom jsme se stavili v termálech.
+![prameny](img/5_prameny.jpg "park [Courela Garden](https://mapy.com/s/rezehataba)" )
 
-Jako poslední věc tento den jsme se zajeli podívat na vodopád ..., který dost překvapil a byl to největší vodopád, co jsme na ostrově viděli.
+Centrum Furnas bylo moc pěkný a obklopený krásnýma zelenýma kopečkama.
+
+{{< gallery >}}
+  <img src="img/5_centrum.jpg" class="grid-w50" />
+  <img src="img/5_kopecky.jpg" class="grid-w50" />
+{{< /gallery >}}
+
+V centru jsme taky narazili na zvláštní domek.
+
+![domek](img/5_obraceny_domek.jpg)
+
+Další atrakcí, která jde ve Furnas navštívit je [zahrada s termálními bazénem](https://www.parqueterranostra.com/en/). My jsme se ji ale vynechali, protože už jsme neměli moc času, ale vypadala fakt nádherně.
+
+Termály, které jsme se ale rozhodli vyzkoušet byly [Poça da Dona Beija](https://pocadadonabeija.com/). S parkováním byl trochu problém, takže jsme parkovali trochu dál. Vstupné bylo 12 euro na hodinu. Termály se skládali z pěti bazénků s různou výškou vody a byly v nádherném prostředí pralesa a lidí bylo tak jako průměrně. Celkově to byl fakt fajn zážitek a krásně jsme si odpočinuli. Jediné, co nás trošku zklamalo, tak že všechny bazénky měli stejnou teplotu.
+
+{{< gallery >}}
+  <img src="img/5_termaly.jpg" class="grid-w50" />
+  <img src="img/5_termaly2.jpg" class="grid-w50" />
+{{< /gallery >}}
+
+Jako poslední věc tento den jsme se zajeli podívat na vodopád [Ribeira Quente](https://mapy.com/s/nuvebetohe), který dost překvapil a byl to největší vodopád, co jsme na ostrově viděli. Z Furnas to byla sice zajížďka, ale stálo to za to.
+
+Vodopád je ale poměrně schovaný. Je potřeba zaparkovat ještě před tunelem, pak projít pěšky tunelem a k vodopádu dojít skrz řeku, do které vodopád teče. Suchou nohou to ale jde jen tak napůl. 
+
+![vodopad](img/5_vodopad.jpg "vodopád [Ribeira Quente](https://mapy.com/s/nuvebetohe)" )
+
+![vodopad2](img/5_vodopad_Beny.jpg)
+
+## Pátý den: Západní část ostrova
+
+Poslední den jsme měli let až ve večerních hodinách, tak jsme ráno ještě vyrazili na západ ostrova, abysme to měli blízko na letiště.
+
+Nejprve jsme navštívili zajímavé termály [Ponta da Ferraria](https://pontadaferraria.com/), které se nachází v poměrně čerstvém lávovém poli v okolí skalních bran a útvarů. Do koupaliště v oceánu totiž vyvěrá geotermální pramen, takže se zde dá koupat v krásně teplé vodě a zároveň si užívat vlny. 
+
+{{< gallery >}}
+  <img src="img/6_lava.jpg" class="grid-w100" />
+  <img src="img/6_termal.jpg" class="grid-w50" />
+  <img src="img/6_brana.jpg" class="grid-w50" />
+  <img src="img/6_utesy_lava.jpg" class="grid-w100" />
+{{< /gallery >}}
+
+My jsme ale neměli plavky, takže jsme si akorát prošli lávové pole a koukali na spoustu krabíků.
+
+![krab](img/6_krab.jpg)
+
+Parkovat se teda dalo jen na [horním parkovišti](https://mapy.com/s/nodefalafu), takže cesta zpět byla krapet dokopce. Dali jsme si tam ale aspoň dobrý [kafe](https://maps.app.goo.gl/XedBNriVpfwXD26y9).
+
+Pak jsme pokračovali do městečka [Mosteiros](https://mapy.com/s/karodejelo), kde jsme si udělali krátkou procházku po pobřeží kolem útesů a přírodních koupališť. 
+
+{{< mapy src=https://mapy.com/s/momusecasa >}}
+
+![plaz](img/6_plaz.jpg "[Praia dos Mosteiros](https://mapy.com/s/gupuzafusu) a [Ilhéus dos Mosteiros](https://mapy.com/s/cekuhajeja)" )
+
+{{< gallery >}}
+  <img src="img/6_mosteiros_utesy2.jpg" class="grid-w100" />
+  <img src="img/6_mosteiros.jpg" class="grid-w100" />
+{{< /gallery >}}
+
+V městečku jsme pak zašli na oběd do rybí restaurace [O Chico](https://maps.app.goo.gl/jm4mnzhcXEouP7rq6), která nás dost překvapila milou rodinnou atmosférou a výborným jídlem. 
+
+![restaurace](img/6_ryby.jpg "mečouní steak a jakési rybky" )
+
+Tímhle zážitkem pro nás výlet na Azorách skončil a dál už jsme jen dojeli na letiště a odletěli zpět do Porta.
+
+## ...
+
+Celkově Azory hodnotíme jako jednu z nejhezčích dovolených. Příroda je zde fakt nádherná a ať zajedete kamkoli, neuděláte chybu. Stačí jen jet autem po dálnici a je se čím kochat. Důležitým aspektem ale taky bylo, že jsme měli štěstí na počasí, protože nám téměř nepršelo, i když jsou Azory jinak dost deštivé.
+
+Taky asi hrálo roli, že jsme je navštívili na začátku října, což už bylo mimo sezónu, takže jsme se s největšími davy setkali jen na výhledu [Vista do Rei](https://mapy.com/s/natepumuca) nebo ve Furnas u [geotermálních pramenů](https://mapy.com/s/dulopegeco). 
+
+K mému milému překvapení na začátku října dokonce ještě kvetlo pár hortenzií a lilií, takže celý ostrov působil jako jeden velký park a nedovedu si představit, jak to vypadá, když jsou rozkvetlé všechny.
+
