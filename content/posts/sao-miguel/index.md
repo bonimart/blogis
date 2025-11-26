@@ -219,11 +219,11 @@ Na večer jsme dojeli na úplný východ ostrova k majáku [Farol do Arnel](http
 
 {{< mapy src=https://mapy.com/s/rehomonaga >}}
 
-Sete Citades je městečko na západě ostrova mezi dvěma jezery - [Lagoa Azul](https://mapy.com/s/bokunecaza) a [Lagoa Verde](https://mapy.com/s/papajetaze). [Lagoa Azul](https://mapy.com/s/bokunecaza) má modrou barvu, protože odráží oblohu a [Lagoa Verde](https://mapy.com/s/papajetaze) je zelené, protože odráží okolní hory. (+Místní legenda?)
+Sete Citades je městečko na západě ostrova mezi dvěma jezery - [Lagoa Azul](https://mapy.com/s/bokunecaza) a [Lagoa Verde](https://mapy.com/s/papajetaze). [Lagoa Azul](https://mapy.com/s/bokunecaza) má modrou barvu, protože odráží oblohu a [Lagoa Verde](https://mapy.com/s/papajetaze) je zelené, protože odráží okolní hory.
 
-Všechna jezera leží na ploše masivního polygenetického vulkánu Sete Citades, který má plochu asi 110 km2. Polygenetický vulkány mají složitější strukturu, protože jejich erupce proběhla v minulosti několikrát, narozdíl od monogenetických vulkánů, které v minulosti vybuchli jenom jednou a přestali být aktivními. Vulkanický masiv Sete Citades je velmi členitý a tvoří ho různé vulkanické struktury a 4 jezera. Jeho poslední erupce se datuje na rok 500 n.l., čímž vznikla [Caldeira Seca](https://maps.app.goo.gl/5YFP3iNy373syFko6).
+Všechna jezera leží na ploše masivního polygenetického vulkánu Sete Citades, který má plochu asi 110 km$^2$. Polygenetický vulkány mají složitější strukturu, protože jejich erupce proběhla v minulosti několikrát, narozdíl od monogenetických vulkánů, které v minulosti vybuchli jenom jednou a přestali být aktivními. Vulkanický masiv Sete Citades je velmi členitý a tvoří ho různé vulkanické struktury a 4 jezera. Jeho poslední erupce se datuje na rok 500 n.l., čímž vznikla [Caldeira Seca](https://maps.app.goo.gl/5YFP3iNy373syFko6).
 
-Náš trek začínal na parkovišti u [akvaduktu](https://mapy.com/s/lulorefajo), kolem kterých se pásli krávy a v mlze zde byla opravdu krásná atmosféra.
+Náš trek začínal na parkovišti u [akvaduktu](https://mapy.com/s/lulorefajo), kolem kterých se pásly krávy a v mlze zde byla opravdu krásná atmosféra.
 
 {{< gallery >}}
   <img src="img/4_kravy_viadukt.jpg" class="grid-w100" />
@@ -260,7 +260,7 @@ Pak jsme míjeli známý výhled [Vista do Rei](https://mapy.com/s/natepumuca), 
 
 ![4_nej](img/4_nej.jpg )
 
-Naše trasa pak pokračovala po silnici, což nebylo uplně příjemný. Chtěli jsme se zajít na jeden výhled [Boca do Inferno](https://mapy.com/s/nopupuhehe), odkud byly vidět i zbylá jezera, která jsme ještě neviděli. Na tento výhled odbočovala ze silnice neznačená, ale pěkná cesta (bohužel na mapách není zobrazená). 
+Naše trasa pak pokračovala po silnici, což nebylo uplně příjemný. Chtěli jsme zajít na jeden výhled [Boca do Inferno](https://mapy.com/s/nopupuhehe), odkud byly vidět i zbylá jezera, která jsme ještě neviděli. Na tento výhled odbočovala ze silnice neznačená, ale pěkná cesta (bohužel na mapách není zobrazená). 
 
 {{< gallery >}}
   <img src="img/4_zabradli2.jpg" class="grid-w100" />
@@ -271,3 +271,28 @@ Z výhledu [Boca do Inferno](https://mapy.com/s/nopupuhehe) pak ale na parkoviš
 
 ## Pátý den: Furnas
 
+Pátý den jsme vyrazili do vulkanické oblasti v okolí městečka Furnas na východě ostrova.
+Ráno jsme zamířili na procházku okolo [Lagoa da Furnas](https://mapy.com/s/mohohuhuma).
+
+{{< mapy src=https://mapy.com/s/kohahazupu >}}
+
+Procházka byla krásná, ani nám nevadilo vracet se zpět na parkoviště po silnici.
+
+{{< gallery >}}
+  <img src="img/5_kostel.jpg" class="grid-w50" />
+  <img src="img/5_odpočinek.jpg" class="grid-w50" />
+  <img src="img/5_prales.jpg" class="grid-w50" />
+  <img src="img/5_prales2.jpg" class="grid-w50" />
+{{< /gallery >}}
+
+Na procházce jsme viděli i přípravu místní speciality [Cozido das Furnas](https://byacores.com/en/cozido-das-furnas/).
+To je směs zeleniny a masa vařená v hrncích zakopaných v blízkosti geotermálních pramenů.
+
+![cozido](img/5_cozinha.jpg)
+
+Po procházce jsme přejeli do Furnasu, kde jsme se prošli k parku s geotermálními prameny.
+
+
+Potom jsme se stavili v termálech.
+
+Jako poslední věc tento den jsme se zajeli podívat na vodopád ..., který dost překvapil a byl to největší vodopád, co jsme na ostrově viděli.
