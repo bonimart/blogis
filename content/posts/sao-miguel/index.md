@@ -19,15 +19,15 @@ Ubytování jsme našli přes Booking ve městě Vila Franca do Campo, které je
 
 Rozhodně bych doporučil půjčit si na letišti auto, ostrov je dost členitý a silnice jsou v dobrém stavu.
 My jsme si půjčovali u [Go Rent a Car](https://www.gorentacar.pt/en/).
-Fiat Panda nás vyšel na 158.5 EUR na 6 dní (včetně 72 EUR plné pojistky bez spoluúčasti a druhým řidičem zdarma).
+Fiat Panda nás vyšel na 158.5 EUR na 6 dní (včetně 72 EUR pojistky bez spoluúčasti).
 
 ## První den: Jezírka východně od Sete Citades
 
-Náš let trval z Porta něco málo přes dvě hodiny a na letiště do Ponta Delgada jsme dorazili dopoledne, takže jsme si zašli pro auto a rovnou jsme vyrazili na první výlet.
+Náš let trval z Porta něco málo přes dvě hodiny a na letiště Ponta Delgada jsme dorazili dopoledne, takže jsme si zašli pro auto a rovnou jsme vyrazili na první výlet.
 
 Jelikož byl poměrně hezký den, mířili jsme na západ na trek kolem jezírek v oblasti Sete Citades.
 
-Cestou jsme se ještě stavili na kávu a oběd. Oba podniky, co jsme navštívili, vypadaly zvenku trochu pochybně - měly místo dveří korálky a před nimi posedávali místní důchodci a hráli domino. U obou nás ale jídlo nakonec mile překvapilo. Například portugalská [bifana](https://en.wikipedia.org/wiki/Bifana), kterou jsme ochutnali ve snackbaru [Rei das Bifanas](https://maps.app.goo.gl/xT5doPGQUXpc6mTF7) ve vesničce Feteiras, byla opravdu luxusní.
+Cestou jsme se ještě stavili na kávu a oběd. Oba podniky, co jsme navštívili, vypadaly zvenku trochu pochybně - měly místo dveří korálky nebo před nimi hráli místní důchodci domino. U obou nás ale jídlo mile překvapilo. Například portugalská [bifana](https://en.wikipedia.org/wiki/Bifana), kterou jsme ochutnali ve snackbaru [Rei das Bifanas](https://maps.app.goo.gl/xT5doPGQUXpc6mTF7) ve vesničce Feteiras, byla opravdu luxusní.
 
 ![1_bifana](img/1_bifana.jpg)
 
@@ -92,7 +92,7 @@ Zaparkovali jsme na [parkovišti](https://mapy.com/s/lapehubapa) u výhledu na j
   <img src="img/2_kapradi.jpg" class="grid-w50" />
 {{< /gallery >}}
 
-Jezero jsme spatřili téměř až jsme sestoupali úplně dolů k němu. Pokračovali jsme ještě kousek podél pláže, ale výhledy stále nebyly nic moc.
+Jezero jsme spatřili až když jsme sestoupali úplně dolů k němu. Pokračovali jsme ještě kousek podél pláže, ale výhledy stále nebyly nic moc.
 
 ![2_mlha](img/2_mlha.jpg )
 
@@ -104,7 +104,7 @@ Dál jsme se vydali směrem k vodopádům a termálům [Caldeira Velha](https://
 
 [Caldeira Velha](https://mapy.com/s/delezotodo) jsou jinak termály, které obklopuje krásná příroda a vodopády. Cenově vycházely s koupáním na [10 euro](https://parquesnaturais.azores.gov.pt/en/parques/9/centro/21/horarios). 
 
-Další místo, které jsme navštívili bylo v okolí vesničky [Porto Formosa](https://mapy.com/s/fapobusavu). Šli jsme tam krátký okruh okolo vodopádu a útesů.
+Další místo, které jsme navštívili, bylo v okolí vesničky [Porto Formosa](https://mapy.com/s/fapobusavu). Šli jsme tam krátký okruh okolo vodopádu a útesů.
 
 {{< mapy src=https://mapy.com/s/cafosulume >}}
 
@@ -130,7 +130,7 @@ Pak už jsme pokračovali podél moře směrem zpátky k vesničce. Cestou jsme 
 
 Naše trasa směřovala dál k výrobně čaje [Chá Gorreana](https://mapy.com/s/jozofegeme), okolo které se rozkládají čajové plantáže. Čajové plantáže [Chá Gorreana](https://gorreana.pt/en/) jsou nejstaršími dosud fungujícími čajovými plantážemi v Evropě a v provozu jsou od roku 1883. Zajímavé je, že výrobna čaje zůstává vlastněná rodinou původních majitelů. Plantáže jsou tvořeny malými stromky čajovníku čínského ([Camellia sinensis](https://www.inaturalist.org/taxa/123005-Camellia-sinensis)), jehož lísky se sklízejí v období mezi dubnem a říjnem a potom se z něj vyrábí 3 typy čajů - zelený, černý a oolong. 
 
-Zaparkovali jsme přímo u výrobny čaje, kde nebylo moc místa, ale měli jsme štěstí a nějaké jsme našli. Pak jsme okolo šli krátký track okolo čajových plantáží a vedlejšího vodopádu [Salto da Cidreira](https://mapy.com/s/fuvasakopa).
+Zaparkovali jsme přímo u výrobny čaje, kde nebylo moc místa, ale měli jsme štěstí a nějaké jsme našli. Pak jsme šli krátký trek okolo čajových plantáží a vedlejšího vodopádu [Salto da Cidreira](https://mapy.com/s/fuvasakopa).
 
 {{< mapy src=https://mapy.com/s/putolejobe >}}
 
@@ -189,7 +189,7 @@ Původně jsme teda chtěli jsme dojít až k vodpádu [Cascata do Risco](https:
 
 ![3_poco_azul](img/3_poco_azul.jpg "Poço Azul")
 
-Trasa byla jinak docela pěknou přírodou, až na to, že část vedla po silnici a celkově měla trasa docela velké převýšení, takže se výlet tolik nepovedl. Co musím ale ocenit, tak jsou [lilie](https://www.inaturalist.org/taxa/61827-Amaryllis-belladonna), které lemovaly silnici.
+Trasa byla jinak docela pěknou přírodou, až na to, že část vedla po silnici a celkově měla trasa docela velké převýšení, takže se výlet tolik nepovedl. Musím ale ocenit [lilie](https://www.inaturalist.org/taxa/61827-Amaryllis-belladonna), které lemovaly silnici.
 
 ![3_cesta_lilie](img/3_cesta_lilie.jpg )
 
@@ -212,22 +212,22 @@ Na večer jsme dojeli na úplný východ ostrova k majáku [Farol do Arnel](http
 
 ##  Čtvrtý den: Sete Citades
 
-Čtvrtý den jsme se vydali asi na nejznámnější trek na ostrově Sao Miguel - a to kolem jezer [Sete Citades](). 
+Čtvrtý den jsme se vydali na nejznámnější trek na ostrově Sao Miguel - a to kolem jezer [Sete Citades](https://mapy.com/s/nanodadudu). 
 
 {{< mapy src=https://mapy.com/s/rehomonaga >}}
 
 Sete Citades je městečko na západě ostrova mezi dvěma jezery - [Lagoa Azul](https://mapy.com/s/bokunecaza) a [Lagoa Verde](https://mapy.com/s/papajetaze). [Lagoa Azul](https://mapy.com/s/bokunecaza) má modrou barvu, protože odráží oblohu a [Lagoa Verde](https://mapy.com/s/papajetaze) je zelené, protože odráží okolní hory.
 
-Všechna jezera leží na ploše masivního polygenetického vulkánu Sete Citades, který má plochu asi 110 km$^2$. Polygenetický vulkány mají složitější strukturu, protože jejich erupce proběhla v minulosti několikrát, narozdíl od monogenetických vulkánů, které v minulosti vybuchli jenom jednou a přestali být aktivními. Vulkanický masiv Sete Citades je velmi členitý a tvoří ho různé vulkanické struktury a 4 jezera. Jeho poslední erupce se datuje na rok 500 n.l., čímž vznikla [Caldeira Seca](https://maps.app.goo.gl/5YFP3iNy373syFko6).
+Všechna jezera leží na ploše masivního polygenetického vulkánu Sete Citades, který má plochu asi 110 km$^2$. Polygenetické vulkány mají složitější strukturu, protože jejich erupce proběhla v minulosti několikrát, narozdíl od monogenetických vulkánů, které v minulosti vybuchly jenom jednou a přestaly být aktivními. Vulkanický masiv Sete Citades je velmi členitý a tvoří ho různé vulkanické struktury a 4 jezera. Jeho poslední erupce se datuje na rok 500 n.l., čímž vznikla [Caldeira Seca](https://maps.app.goo.gl/5YFP3iNy373syFko6).
 
-Náš trek začínal na parkovišti u [akvaduktu](https://mapy.com/s/lulorefajo), kolem kterých se pásly krávy a v mlze zde byla opravdu krásná atmosféra.
+Náš trek začínal na parkovišti u [akvaduktu](https://mapy.com/s/lulorefajo), kolem kterého se pásly krávy. Díky mlze zde byla opravdu krásná atmosféra.
 
 {{< gallery >}}
   <img src="img/4_kravy_viadukt.jpg" class="grid-w100" />
   <img src="img/4_akvadukt_kravy.jpg" class="grid-w100" />
 {{< /gallery >}}
 
-Část akvaduktu se nazývá [Wall of nine windows](). Původní akvadukt pochází z 17. století a odváděl vodu z oblasti kolem [Lagoa do Canario](https://mapy.com/s/gebugotese) do hlavního města ostrova [Ponta Delgada](https://mapy.com/s/puveresejo). 
+Část akvaduktu se nazývá The wall of nine windows. Původní akvadukt pochází z 17. století a odváděl vodu z oblasti kolem [Lagoa do Canario](https://mapy.com/s/gebugotese) do hlavního města ostrova [Ponta Delgada](https://mapy.com/s/puveresejo). 
 
 ![4_stěna](img/4_stěna.jpg "The Wall of Nine Windows" )
 
@@ -257,14 +257,14 @@ Pak jsme míjeli známý výhled [Vista do Rei](https://mapy.com/s/natepumuca), 
 
 ![4_nej](img/4_nej.jpg )
 
-Naše trasa pak pokračovala po silnici, což nebylo uplně příjemný. Chtěli jsme zajít ještě na jeden výhled [Boca do Inferno](https://mapy.com/s/nopupuhehe), odkud bylo možné zahlídnout i zbylá jezera, která jsme dosud neviděli. Na tento výhled odbočovala ze silnice neznačená, ale pěkná cesta (bohužel na mapách není zobrazená). 
+Trasa pokračovala po silnici, což nebylo uplně příjemné. Chtěli jsme totiž zajít na poslední výhled [Boca do Inferno](https://mapy.com/s/nopupuhehe), odkud bylo možné zahlédnout i zbylá jezera, která jsme dosud neviděli. Na tento výhled odbočovala ze silnice neznačená, ale pěkná cesta. 
 
 {{< gallery >}}
   <img src="img/4_zabradli2.jpg" class="grid-w100" />
   <img src="img/4_zabradli.jpg" class="grid-w100" />
 {{< /gallery >}}
 
-Z výhledu [Boca do Inferno](https://mapy.com/s/nopupuhehe) pak ale na parkoviště vedla pěkná upravená cesta jakýmsi parkem.
+Z výhledu [Boca do Inferno](https://mapy.com/s/nopupuhehe) na parkoviště ale už vedla pěkná upravená cesta jakýmsi parkem.
 
 ## Pátý den: Furnas
 
@@ -275,13 +275,7 @@ Ráno jsme zamířili na procházku okolo [Lagoa da Furnas](https://mapy.com/s/m
 
 Procházka byla krásná, ani nám nevadilo vracet se zpět na parkoviště po silnici.
 
-{{< gallery >}}
-  <img src="img/5_kostel.jpg" class="grid-w50" />
-  <img src="img/5_odpočinek.jpg" class="grid-w50" />
-  <img src="img/5_prales.jpg" class="grid-w50" />
-  <img src="img/5_prales2.jpg" class="grid-w50" />
-  <img src="img/5_sira.jpg" class="grid-w100" />
-{{< /gallery >}}
+{{< carousel images="{img/5_kostel.jpg,img/5_odpočinek.jpg,img/5_prales.jpg}" >}}
 
 Na procházce jsme viděli i přípravu místní speciality [Cozido das Furnas](https://byacores.com/en/cozido-das-furnas/).
 To je směs zeleniny a masa vařená v hrncích zakopaných v blízkosti geotermálních pramenů. [Cozido das Furnas](https://byacores.com/en/cozido-das-furnas/) jsme ale nakonec neochutnali, protože bylo dost drahé a bylo potřeba si ho předem rezervovat v restauraci. Vůně podobná svíčkové byla ale cítit, i když jsme jen šli kolem.
@@ -305,9 +299,9 @@ V centru jsme taky narazili na zvláštní domek.
 
 ![domek](img/5_obraceny_domek.jpg)
 
-Další atrakcí, která jde ve Furnas navštívit je [zahrada s termálními bazénem](https://www.parqueterranostra.com/en/). My jsme se ji ale vynechali, protože už jsme neměli moc času, ale vypadala fakt nádherně.
+Další atrakcí, která jde ve Furnas navštívit je [zahrada s termálními bazénem](https://www.parqueterranostra.com/en/). My jsme ji ale vynechali, protože už jsme neměli moc času, ale vypadala fakt nádherně.
 
-Termály, které jsme se ale rozhodli vyzkoušet byly [Poça da Dona Beija](https://pocadadonabeija.com/). S parkováním byl trochu problém, takže jsme parkovali trochu dál. Vstupné bylo 12 euro na hodinu. Termály se skládaly z pěti bazénků s různou výškou vody a byly v nádherném prostředí pralesa a lidí bylo tak jako průměrně. Celkově to byl fakt fajn zážitek a krásně jsme si odpočinuli. Jediné, co nás trošku zklamalo, tak že všechny bazénky měli stejnou teplotu.
+Termály, které jsme se ale rozhodli vyzkoušet byly [Poça da Dona Beija](https://pocadadonabeija.com/). S parkováním byl trochu problém, takže jsme parkovali trochu dál. Vstupné bylo 12 euro na hodinu. Termály se skládaly z pěti bazénků s různou výškou vody a byly v nádherném prostředí pralesa a lidí bylo tak jako průměrně. Celkově to byl fakt fajn zážitek a krásně jsme si odpočinuli. Jediné, co nás trošku zklamalo bylo, že všechny bazénky měly stejnou teplotu.
 
 {{< gallery >}}
   <img src="img/5_termaly.jpg" class="grid-w50" />
@@ -316,7 +310,7 @@ Termály, které jsme se ale rozhodli vyzkoušet byly [Poça da Dona Beija](http
 
 Jako poslední věc tento den jsme se zajeli podívat na vodopád [Ribeira Quente](https://mapy.com/s/nuvebetohe), který dost překvapil a byl to největší vodopád, co jsme na ostrově viděli. Z Furnas to byla sice zajížďka, ale stálo to za to.
 
-Vodopád je ale poměrně schovaný. Je potřeba zaparkovat ještě před tunelem, pak projít pěšky tunelem a k vodopádu dojít skrz řeku, do které vodopád teče. Suchou nohou to ale jde jen tak napůl. 
+Vodopád je poměrně schovaný. Je potřeba zaparkovat ještě před tunelem, pak projít pěšky tunelem a k vodopádu dojít skrz řeku, do které vodopád teče. Suchou nohou to ale jde jen tak napůl. 
 
 ![vodopad](img/5_vodopad.jpg "vodopád [Ribeira Quente](https://mapy.com/s/nuvebetohe)" )
 
@@ -339,18 +333,13 @@ My jsme ale neměli plavky, takže jsme si akorát prošli lávové pole a kouka
 
 ![krab](img/6_krab.jpg)
 
-Parkovat se teda dalo jen na [horním parkovišti](https://mapy.com/s/nodefalafu), takže cesta zpět byla krapet dokopce. Dali jsme si tam ale aspoň dobrý [kafe](https://maps.app.goo.gl/XedBNriVpfwXD26y9).
-
-Pak jsme pokračovali do městečka [Mosteiros](https://mapy.com/s/karodejelo), kde jsme si udělali krátkou procházku po pobřeží kolem útesů a přírodních koupališť. 
+Parkovat se teda dalo jen na [horním parkovišti](https://mapy.com/s/nodefalafu), takže cesta zpět byla krapet do kopce. Dali jsme si tam ale aspoň dobrý [kafe](https://maps.app.goo.gl/XedBNriVpfwXD26y9).
 
 {{< mapy src=https://mapy.com/s/momusecasa >}}
 
-![plaz](img/6_plaz.jpg "[Praia dos Mosteiros](https://mapy.com/s/gupuzafusu) a [Ilhéus dos Mosteiros](https://mapy.com/s/cekuhajeja)" )
+Pak jsme pokračovali do městečka [Mosteiros](https://mapy.com/s/karodejelo), kde jsme si udělali krátkou procházku po pobřeží kolem útesů a přírodních koupališť. 
 
-{{< gallery >}}
-  <img src="img/6_mosteiros_utesy2.jpg" class="grid-w100" />
-  <img src="img/6_mosteiros.jpg" class="grid-w100" />
-{{< /gallery >}}
+{{< carousel images="{img/6_plaz.jpg,img/6_mosteiros.jpg}" >}}
 
 V městečku jsme pak zašli na oběd do rybí restaurace [O Chico](https://maps.app.goo.gl/jm4mnzhcXEouP7rq6), která nás dost překvapila milou rodinnou atmosférou a výborným jídlem. 
 
@@ -358,7 +347,7 @@ V městečku jsme pak zašli na oběd do rybí restaurace [O Chico](https://maps
 
 Tímhle zážitkem pro nás výlet na Azorách skončil a dál už jsme jen dojeli na letiště a odletěli zpět do Porta.
 
-## ...
+## Shrnutí
 
 Celkově Azory hodnotíme jako jednu z nejhezčích dovolených. Příroda je zde fakt nádherná a ať zajedete kamkoli, neuděláte chybu. Stačí jen jet autem po dálnici a je se čím kochat. Důležitým aspektem ale taky bylo, že jsme měli štěstí na počasí, protože nám téměř nepršelo, i když jsou Azory jinak dost deštivé.
 
