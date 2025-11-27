@@ -307,7 +307,7 @@ V centru jsme taky narazili na zvláštní domek.
 
 Další atrakcí, která jde ve Furnas navštívit je [zahrada s termálními bazénem](https://www.parqueterranostra.com/en/). My jsme se ji ale vynechali, protože už jsme neměli moc času, ale vypadala fakt nádherně.
 
-Termály, které jsme se ale rozhodli vyzkoušet byly [Poça da Dona Beija](https://pocadadonabeija.com/). S parkováním byl trochu problém, takže jsme parkovali trochu dál. Vstupné bylo 12 euro na hodinu. Termály se skládali z pěti bazénků s různou výškou vody a byly v nádherném prostředí pralesa a lidí bylo tak jako průměrně. Celkově to byl fakt fajn zážitek a krásně jsme si odpočinuli. Jediné, co nás trošku zklamalo, tak že všechny bazénky měli stejnou teplotu.
+Termály, které jsme se ale rozhodli vyzkoušet byly [Poça da Dona Beija](https://pocadadonabeija.com/). S parkováním byl trochu problém, takže jsme parkovali trochu dál. Vstupné bylo 12 euro na hodinu. Termály se skládaly z pěti bazénků s různou výškou vody a byly v nádherném prostředí pralesa a lidí bylo tak jako průměrně. Celkově to byl fakt fajn zážitek a krásně jsme si odpočinuli. Jediné, co nás trošku zklamalo, tak že všechny bazénky měli stejnou teplotu.
 
 {{< gallery >}}
   <img src="img/5_termaly.jpg" class="grid-w50" />
@@ -322,7 +322,7 @@ Vodopád je ale poměrně schovaný. Je potřeba zaparkovat ještě před tunele
 
 ![vodopad2](img/5_vodopad_Beny.jpg)
 
-## Pátý den: Západní část ostrova
+## Šestý den: Západní část ostrova
 
 Poslední den jsme měli let až ve večerních hodinách, tak jsme ráno ještě vyrazili na západ ostrova, abysme to měli blízko na letiště.
 
