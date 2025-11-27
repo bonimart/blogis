@@ -1,6 +1,5 @@
 +++
 date = '2025-10-10T19:20:13+01:00'
-draft = true
 title = 'Sao Miguel'
 tags = ['týdenní výlet']
 +++
