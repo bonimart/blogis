@@ -41,4 +41,4 @@ To je hustý fazolový guláš s různými druhy masa - v našem případě vep�
 V porovnání s ostatními plážemi byla Costa Nova asi nejsvětlejší.
 Většina cesty vede po dřevěných molech nad písečnými dunami, takže procházka byla příjemná.
 
-{{< carousel images="{img/plaz.jpg,img/plaz2.jpg,img/domecky1.jpg}" >}}
+{{< carousel images="{img/plaz.jpg,img/plaz2.jpg,img/plaz3.jpg,img/domecky1.jpg}" >}}
