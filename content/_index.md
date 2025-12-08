@@ -1,4 +1,4 @@
-## Blogis
+# Zportovní výlety
 
 Vítejte na našem blogu, kde píšeme o výletech v okolí Porta z Erasmu v zimním semestru 2025.
 
