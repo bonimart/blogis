@@ -33,7 +33,7 @@ Místo toho jsme tedy rovnou vyrazili pěšky po pláži směrem k rybářské v
 ![Maják Farol da Barra](img/majak2.jpg "Farol da Barra")
 
 Cestou jsme se zastavili na oběd v místní restauraci, kde jsme ochutnali tradiční brazilský pokrm Feijoada.
-To je takový fazolový guláš s různými druhy masa - v našem případě vepřovým masem, klobásou a hovězými jazyky.
+To je takový fazolový guláš s různými druhy masa - v našem případě vepřovým masem, klobásou a hovězími jazyky.
 Jídlo je to tak hutné a porce byla tak obrovská, že jsme snědli sotva třetinu porce.
 
 ![Feijoada](img/humus.jpg "Feijoada")
