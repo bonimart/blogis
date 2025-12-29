@@ -18,7 +18,7 @@
 [[main]]
   identifier = "github"
   pre = "github"
-  url = "https://github.com/bonimart/blogis"
+  url = "https://github.com/bonimart/zportovni-vylety"
   weight = 40
 
 #[[main]]

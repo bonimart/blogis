@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'cs'
-title = 'Blogis'
+title = 'Zportovní výlety'
 # https://gohugo.io/host-and-deploy/host-on-github-pages/#step-2
 [caches]
   [caches.images]

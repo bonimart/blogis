@@ -1,11 +1,15 @@
-## Blogis
+# Zportovní výlety
 
-Vítejte na našem blogu, kde píšeme o výletech v okolí Porta z Erasmu v zimním semestru 2025.
+Zdravíčko, jsme Eva a Martin a zimní semestr 2025 jsme strávili na Erasmu v portugalském městě Porto.
 
-Po prvním týdnu v Portu jsme si uvědomili, že mimo centrum tu vlastně není moc kam jít.
-K Portu jsou nalepené sousední obce, takže celá zdejší oblast je jedna velká aglomerace.
-Na druhou stranu, [MHD karta Andante je pro studenty do 23 let zdarma](https://andante.pt/en/purchase/silver-andante/) a autobusy jsou extrémně levné.
 
-Začali jsme tedy pátrat po zajímavých místech dále od Porta.
-Naším blogem chceme ostatním Erasmákům dát inspiraci, kam se z Porta dá vyrazit.
+![Autoři](hello_world.jpg)
+
+Na *Zportovních výletech* budeme sdílet výlety, kam jsme z Porta vyrazili.
+Cílíme na budoucí Erasmáky, kterým chceme dát inspiraci, kam se z Porta podívat.
+
+Cestování po Portu usnadňuje, že [MHD je tu do 23 let zdarma](https://andante.pt/en/purchase/silver-andante/).
+V Portugalsku obecně je pak kvalitní dálniční síť a dost levné autobusy.
+
+> logo blogu je **Pastel de nata**, nejlepší portugalský zákusek
 
