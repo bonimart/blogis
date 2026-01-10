@@ -9,7 +9,7 @@ tags = ["týdenní výlet"]
 Jelikož jsme se alespoň jednou chtěli podívat až na druhý konec Portugalska, naplánovali jsme na podzimní prázdniny výlet na jih - do oblasti Algarve. Měli jsme čas bohužel jen 4 dny, takže našimi hlavními cíly bylo Faro, Lagos, Benagil a Lisabon.
 
 
-Pronajali jsme si auto u společnosti ... v Portu. Samotné půjčení auta nebylo až tak drahé, ale jelikož se na dálnicích platí docela vysoké poplatky, nakonec vyšlo půjčení docela draho ... Na druhou stranu byla dálniční síť v Portugalsku poměrně pěkná a rozlehlá.
+Pronajali jsme si auto u společnosti [Flashrent](https://maps.app.goo.gl/Lc6gACCC3uYSxrby9) v Portu. Samotné půjčení auta nebylo až tak drahé, ale jelikož se na dálnicích platí docela vysoké mýtné, tak jsme dohromady za auto, mýtné a benzín utratili celkem 380 EUR. Na druhou stranu byla dálniční síť v Portugalsku poměrně pěkná a rozlehlá.
 
 ## První den: Faro
 
@@ -21,7 +21,7 @@ Nejprve jsme se báli, že jeden večer nebude stačit na projití celého měst
 
 ![pout](img/pout.jpg)
 
-Dál jsme viděli přístav a historické centrum, které bylo sice pěkné, ale maličké a navíc bylo plné zaparkovaných aut, takže to trochu kazilo dojem.
+Dál jsme viděli přístav a historické centrum, které bylo sice pěkné, ale maličké a navíc bylo plné zaparkovaných aut, což trochu kazilo dojem.
 
 {{< gallery >}}
   <img src="img/faro.jpg" class="grid-w50" />
@@ -30,7 +30,7 @@ Dál jsme viděli přístav a historické centrum, které bylo sice pěkné, ale
 
 ## Druhý den: Ria Formosa, Lagos
 
-Město Faro ale nebylo naším hlavním cílem. Chtěli jsme navštívit hlavně jeho okolí a přírodní park [Ria Formosa](https://mapy.com/s/napobugoba). Ria Formosa je soubor ostrůvků, písečných dun a jezírek na okraji Fara. Tento park je významný jako hnízdniště spousty ptáků, kvůli těžbě soli a taky zde místních sbírají různé škeble nebo ústřice pro zdejší restuaurace.
+Město Faro ale nebylo naším hlavním cílem. Chtěli jsme navštívit hlavně jeho okolí a přírodní park [Ria Formosa](https://mapy.com/s/napobugoba). Ria Formosa je soubor ostrůvků, písečných dun a jezírek na okraji Fara. Tento park je významný jako hnízdniště spousty ptáků, kvůli těžbě soli a taky zde místní sbírají různé škeble nebo ústřice pro zdejší restuaurace.
 
 Trasa, kterou jsme vybrali, byl okruh propojených trailů [Ludo](https://mapy.com/s/cujegolazu) a [Sao Lourenzo](https://mapy.com/s/majetatono).
 
@@ -48,7 +48,7 @@ Cestou po dřevěném mostě přes mokřad, který vedl od pláže, už bylo mo�
 
 {{< carousel images="{img/krab.jpg,img/krab2.jpg,img/krab3.jpg}" >}}
 
-V mokřadu okolo mostu bylo také mnoho místních sbírající škeble a nějaké podivné červy (asi sumýšovce rýhované?).
+V mokřadu okolo mostu bylo také mnoho místních sbírající škeble a nějaké podivné červy (asi sumýšovce rýhované).
 
 {{< carousel images="{img/bahno.jpg,img/most.jpg,img/bahno2.jpg}" >}}
 
@@ -106,7 +106,7 @@ Na jedné z pláží [Praia da Dona Ana](https://mapy.com/s/hovenuvepe) jsme se 
   <img src="img/plaz_lagos3.jpg" class="grid-w100" />
 {{< /gallery >}}
 
-Pak už jsme se pomalu vrátili na parkoviště a jeli se ubytovat do dalšího [ubytování](https://mapy.com/s/cofatutuno). Večer jsme ještě chtěli zajít někam na večeři, ale už nebylo skoro nic otevřeného, tak jsme zašli do nejbližšího [podniku](https://maps.app.goo.gl/9QzgPykpdDXKAgkF8), který nestál moc za nic. Jídlo bylo sice dobré, ale dost předražené. Alespoň jsme ale ochutnali mořskou kuchyni a místní dezert z lusků [karob (alfarroba)](https://natural.pt/news/alfarrobeira?locale=en).
+Pak už jsme se pomalu vrátili na parkoviště a jeli se ubytovat do dalšího [ubytování](https://mapy.com/s/cofatutuno). Večer jsme ještě chtěli zajít někam na večeři, ale už nebylo skoro nic otevřeného, tak jsme zašli do nejbližšího [podniku](https://maps.app.goo.gl/9QzgPykpdDXKAgkF8), který za moc nestál. Jídlo bylo sice dobré, ale dost předražené. Alespoň jsme ale ochutnali mořskou kuchyni a místní dezert z lusků [karob (alfarroba)](https://natural.pt/news/alfarrobeira?locale=en).
 
 
 ## Třetí den: Sedmero visutých údolí a jeskyně Benagil
