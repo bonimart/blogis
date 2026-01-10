@@ -1,6 +1,6 @@
 +++
 date = '2025-10-25T19:13:44+01:00'
-draft = true
+draft = false
 title = 'Algarve'
 tags = ["týdenní výlet"]
 +++
