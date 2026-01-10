@@ -1,6 +1,6 @@
 +++
 date = '2025-10-25T19:13:44+01:00'
-draft = true
+draft = false
 title = 'Algarve'
 tags = ["týdenní výlet"]
 +++
@@ -178,7 +178,9 @@ Když jsme Lisabon navštívili podruhé, dojeli jsme z parkoviště do centra a
 
 ![vyhled](img/vyhled.jpg)
 
-Dále jsme viděli [Kostel svaté Engrácie](https://mapy.com/s/jovusesopo). Cestou od něj jsme se stavili do indické restaurace [Zaika-The Taste of India](https://maps.app.goo.gl/5smESpAx4u1yyu5q7), kterou můžeme doporučit. Potom nás čekala[Lisabonská katedrála](https://mapy.com/s/hopetofaze), od které jsme stoupali dál k [hradu Svatého Jiří](https://mapy.com/s/munavepeku). 
+Dále jsme viděli [Kostel svaté Engrácie](https://mapy.com/s/jovusesopo). Tam začalo prudce pršet, takže jsme se běželi schovat do nedaleké indické restaurace [Zaika-The Taste of India](https://maps.app.goo.gl/5smESpAx4u1yyu5q7), kterou můžeme doporučit.
+
+Po obědě se počasí na chvilku uklidnilo a nás čekala [Lisabonská katedrála](https://mapy.com/s/hopetofaze), od které jsme stoupali dál k [hradu Svatého Jiří](https://mapy.com/s/munavepeku). 
 
 ![kopule](img/kopule.jpg "Kostel svaté Engrácie")
 
