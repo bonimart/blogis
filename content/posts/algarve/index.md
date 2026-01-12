@@ -48,7 +48,7 @@ Cestou po dřevěném mostě přes mokřad, který vedl od pláže, už bylo mo�
 
 {{< carousel images="{img/krab.jpg,img/krab2.jpg,img/krab3.jpg}" >}}
 
-V mokřadu okolo mostu bylo také mnoho místních sbírající škeble a nějaké podivné červy (asi sumýšovce rýhované).
+V mokřadu okolo mostu bylo také mnoho místních sbírající škeble a nějaké podivné červy.
 
 {{< carousel images="{img/bahno.jpg,img/most.jpg,img/bahno2.jpg}" >}}
 
